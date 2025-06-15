@@ -1,5 +1,5 @@
 
-# Data Science Intern Assignment – Your Name
+# Data Science Intern Assignment – ARMAAN SINGH
 
 ## Overview
 This repository contains my submission for the Data Science Intern assignment based on an eCommerce Transactions dataset. It includes exploratory analysis, a lookalike recommendation model, and customer segmentation using clustering.
